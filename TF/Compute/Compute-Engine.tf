@@ -1,3 +1,4 @@
+#Dummy Commit
 resource "google_compute_instance" "Compute-Instance1" {
   name         = var.instance_name
   machine_type = var.instance_type
