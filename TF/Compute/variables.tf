@@ -1,5 +1,5 @@
 variable "instance_zone" {
-  description = "Zone in which instance will be created. Cannot be changed later."
+  description = "Zone in which instance will be created."
   type        = string
   default     = "us-central1-a"
 }
